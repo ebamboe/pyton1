@@ -6,5 +6,5 @@ def multiplication_or_sum(num1, num2):
      return product
     else:
      return num1 + num2
-result = multiplication_or_sum(30, 40)
+result = multiplication_or_sum(20, 30)
 print("The result is", result)
